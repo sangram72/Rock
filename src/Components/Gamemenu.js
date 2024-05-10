@@ -30,22 +30,6 @@ function Gamemenu() {
 
 
 
-            // <div className="game-container" style={{ marginTop: '5%' }}>
-            //     // <div className="title-container">
-            //     //     <h1 style={{ textAlign: 'center' }}>BlackJack Game</h1>
-            //     // </div>
-
-            //     // <div>
-
-            //     //     // <div className="start-button-container">
-            //     //     //     <button onClick={clickMe1}>START</button>
-            //     //     // </div>
-
-            //     // </div>
-
-
-
-            // </div>
 
 
         </>
